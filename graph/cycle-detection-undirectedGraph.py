@@ -1,5 +1,7 @@
 from collections import deque
 # BFSSSS
+
+
 def isCyclic(adj):
     visited = [0] *len(adj)
     
@@ -15,7 +17,6 @@ def isCyclic(adj):
                     queue.append((neighbor, node))
                 elif neighbor != parent:
                     return True
-        
         return False
     
     for i in range(len(adj)):
@@ -24,10 +25,6 @@ def isCyclic(adj):
                 return True
     
     return False
-
-
-
-
 
 def isCyclicDFS(adj):
     visited = [0] *len(adj)
