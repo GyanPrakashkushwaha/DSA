@@ -1,8 +1,8 @@
-def n_to_1(n):
+def oneTon(n):
     # Base Case
     if n == 0:
         return
-    n_to_1(n-1)
+    oneTon(n-1)
     print(n)
     
-n_to_1(5)
+oneTon(5)
