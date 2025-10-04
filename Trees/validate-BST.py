@@ -8,28 +8,26 @@ class TreeNode:
         
 class Solution:
     def isValidBST(self, root) -> bool:
-        if not root:
+        self.prev = None
+        return self.inOrder(root)
+
+    def inOrder(self, root):
+        if not root: 
             return True
-        mainRoot = root.val
-        def traverse(root):
-            if not root:
-                return True
-            if root.right:
-                if root.right.val < root.val and mainRoot:
-                    return False
-            if root.left:
-                if root.left.val > root.val:
-                    return False
-            
-            left = traverse(root.left)
-            right = traverse(root.right)
-            
-            return left and right
-        return traverse(root)
+        left =  self.inOrder(root.left)
+        
+        if self.prev and self.prev >= root.val:
+            return False
+        self.prev = root.val
+        
+        right = self.inOrder(root.right)
+        return left and right
+    
+    
 
 root = TreeNode(5)
 root.left = TreeNode(4)
 root.right = TreeNode(6)
 root.right.left = TreeNode(3)
 root.right.right = TreeNode(7)
-Solution().isValidBST(root)
+print(Solution().isValidBST(root))
