@@ -45,3 +45,22 @@ def myBinarySearch(arr, target):
     return -1
 
 
+
+
+
+
+def reviseBinarySearch(arr, tar):
+    low, high = 0, len(arr)-1
+    
+    while low <= high:
+        mid = low + (high-low)//2
+        
+        if arr[mid] == tar:
+            return mid
+        elif arr[mid] < tar:
+            low = mid+1
+        else:
+            high = mid-1
+    
+    return -1 # Otherwise...
+
