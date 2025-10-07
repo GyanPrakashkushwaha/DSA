@@ -51,3 +51,29 @@ class LinkedList:
             print(temp.data, end=" -> ")
             temp = temp.next
         print("None")
+        
+    def delete2(self, val) -> str:
+        if self.is_empty():
+            return 'LL is empty Cant be deleted'
+        
+        # CASE-1: if head is to be deleted.
+        if self.head.data == val:
+            self.head = self.head.next
+            return f'Deleted {val}'
+
+        prev = self.head
+        curr = self.head.next
+        
+        while curr and curr.data != val:
+            prev, curr = curr, curr.next
+        
+        if not curr:
+            return f'Node Not Found...'
+        
+        prev = curr.next
+        return f'node Deleted {val}'
+    
+    
+        
+
+
