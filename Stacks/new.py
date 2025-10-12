@@ -10,3 +10,15 @@ def monotonic_increasing_stack(nums):
     return stack
 
 print(monotonic_increasing_stack([2, 1, 2, 4, 3])) 
+
+
+
+
+def fun(s):
+    # print(s)
+    if s:
+        i = s.pop()
+        fun(s)
+        s.append(i)
+        print(s)
+fun([3, 4, 5])
