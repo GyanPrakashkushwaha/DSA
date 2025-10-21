@@ -4,25 +4,21 @@ def swap(arr, i, j):
 def partition(arr, st, end):
     pivot = arr[end]
     idx = st - 1
-    comparisions = 0 
     
     for i in range(st, end):
-        comparisions += 1
         if arr[i] <= pivot:
             idx += 1
             swap(arr, i, idx)
     
     idx += 1
     swap(arr, idx, end)
-    return idx, comparisions
+    return idx
 
 def quickSort(arr, st, end):
     if st < end:
-        pvtIdx, compar = partition(arr, st, end)
-        print(compar)
+        pvtIdx = partition(arr, st, end)
         quickSort(arr, st, pvtIdx-1)
         quickSort(arr, pvtIdx+1, end)
-    
     return
 
 

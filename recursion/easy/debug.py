@@ -1,8 +1,8 @@
-def oneTon(n):
-    # Base Case
-    if n == 0:
-        return
-    oneTon(n-1)
-    print(n)
-    
-oneTon(5)
+def fn(n):
+    if n <= 1:
+        return 0
+    one = fn(n-1)
+    two = fn(n-2)
+    return one + two 
+
+fn(4)
