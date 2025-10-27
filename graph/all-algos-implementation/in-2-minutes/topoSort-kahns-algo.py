@@ -2,8 +2,6 @@
 
 
 from collections import defaultdict, deque
-from pydoc import visiblename
-
 
 def kahns(V, edge):
     adj = defaultdict(list)

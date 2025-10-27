@@ -24,7 +24,7 @@ def adjDfs(V, edge):
 
 
 
-def adjDfs(mat):
+def adjDfs(mat):    
     V = len(mat)
     visited = [0]*V
     result = []
