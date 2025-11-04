@@ -66,7 +66,6 @@ def dijkstra(V, edges, src):
     
     while pq:
         d, node = heapq.heappop(pq)
-        
         if visited[node]:
             continue
         visited[node] = 1
