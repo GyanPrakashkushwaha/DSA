@@ -7,35 +7,9 @@ def dijkstra(V, edges, src):
     # Create adjacency list
     adj = constructAdj(edges, V)
     
-    pq = [] # Create a priority queue to store vertices that are being preprocessed.
-    dist = [sys.maxsize] * V # Create a list for distances and initialize all distances as infinite    
-    visited = [0]*V
-    
-    heapq.heappush(pq, [0, src]) # Insert source itself in priority queue and initialize its distance as 0.
-    dist[src] = 0
-
-    while pq: # Looping till priority queue becomes empty (or all distances are not finalized) 
-        node = heapq.heappop(pq)[1] # The first vertex in pair is the minimum distance vertex, extract it from priority queue.
-
-        for neighbor, weight in adj[node]:
-            if not visited[neighbor]:
-                if dist[neighbor] > dist[node] + weight: # If there is shorter path to v through u.
-                    visited[neighbor] = 1
-                    dist[neighbor] = dist[node] + weight
-                    heapq.heappush(pq, [dist[neighbor], neighbor])
-
-    # Return the shortest distance array
-    return dist
-
-def dijkstra(V, edges, src):
-    # Create adjacency list
-    adj = constructAdj(edges, V)
-    
-    pq = []  # Min-heap priority queue
     dist = [sys.maxsize] * V
     visited = [0] * V
-    
-    heapq.heappush(pq, (0, src))
+    pq = [(0, src)] # Min-heap priority queue
     dist[src] = 0
 
     while pq:

@@ -1,39 +1,64 @@
 from collections import defaultdict
 import heapq
 
-def dijkstra(edges, V, src):
-    # Adj List
-    adj = defaultdict(list)
-    for u, v, w in edges:
-        adj[u].append((v, w))
-
-    # Initialization
-    pq = []
-    visited = [0]*V
-    visited[src] = 1
-    dist = [float('inf')]*V
-    heapq.heappush(pq, (0, src))
+def dijkstraAlgo(edges, V, src):
+    adjList = defaultdict(list)
+    for node, neighbor, edgeWeight in edges:
+        adjList[node].append((neighbor, edgeWeight))
+        adjList[neighbor].append((node, edgeWeight))
     
+    visited = [0]*V
+    dist = [float('inf')]*V
+    dist[src] = 0 # 0--distance
+    pq = [(0, src)]
+    
+    # main Loop
     while pq:
-        d, node = heapq.heappop(pq)
+        dis, node = heapq.heappop(pq)
         if visited[node]: continue
         visited[node] = 1
-
-        for neig, weight in adj[node]:
-            if not visited[neig] and dist[neig] > d + weight:
-                dist[neig] = weight + d
-                heapq.heappush(pq, (dist[neig], neig))
         
+        # relaxation
+        for adjacent, edgeWt in adjList[node]:
+            # updation...
+            if not visited[adjacent] and dis + edgeWt < dist[adjacent]:
+                dist[adjacent] = dis + edgeWt
+                heapq.heappush(pq, (dist[adjacent], adjacent))
+            
     return dist
-                
+        
 edges = [
     (0, 1, 4),
     (0, 2, 1),
-    (2, 1, 2),
-    (1, 3, 1),
+    (1, 2, 2),
+    (1, 3, 3),
     (2, 3, 5)
 ]
+
 V = 4
 src = 0
 
-print(dijkstra(edges, V, src))
+print(dijkstraAlgo(edges, V, src))
+    
+
+def dijkstraSet(self, V, edges, src):
+    adjList = defaultdict(list)
+    for node, neighbor, edgeWeight in edges:
+        adjList[node].append((neighbor, edgeWeight))
+        adjList[neighbor].append((node, edgeWeight))
+    
+    dist = [float('inf')]*V
+    dist[src] = 0 
+    st = {(0, src)}
+    
+    while st:
+        dis, node = min(st)
+        st.remove((dis, node))
+        for adjacent, edgeWt in adjList[node]:
+            if dis + edgeWt < dist[adjacent]:
+                if (dist[adjacent], adjacent) in st:
+                    st.remove((dist[adjacent], adjacent))
+                dist[adjacent] = dis + edgeWt
+                st.add((dist[adjacent], adjacent))
+            
+    return dist
