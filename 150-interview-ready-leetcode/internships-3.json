@@ -1,0 +1,1108 @@
+{
+  "Google": {
+    "program": "Summer Internship 2026",
+    "hire": "99% chances of PPO (permanent role) after internship",
+    "eligibility": "Bachelor degree (BTech, MCA, BCA); Diploma holders/BA cannot apply",
+    "timeline": "May and August 2026",
+    "stipend/ctc": "1 to 1.5 lakh",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Focus on fundamentals and thinking structure",
+      "tip-2": "Requires strong DSA knowledge",
+      "tip-3": "ATS friendly resume with top-notch projects recommended"
+    },
+    "preparation_strategy": {
+      "strategy-1": "Build foundation in DSA (Arrays, Strings, Linked List, Stacks, Queues, Graphs) in January",
+      "strategy-2": "Solve 50-60 problems on Leetcode or GeeksforGeeks",
+      "strategy-3": "Build one simple full stack project with authentication"
+    }
+  },
+  "Google-2": {
+    "program": "Application Engineer",
+    "hire": "Not mentioned",
+    "eligibility": "Not mentioned",
+    "timeline": "September 17 to January 2026",
+    "stipend/ctc": "1.3 lakh",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Data based on Glassdoor and employee feedback",
+      "tip-2": "Relates to the 2026 batch",
+      "tip-3": "Not mentioned"
+    },
+    "preparation_strategy": { "strategy-1": "Not mentioned" }
+  },
+  "Google-3": {
+    "program": "Google Summer of Code (GSOC)",
+    "hire": "Open source problem solving; proposal submission",
+    "eligibility": "All engineering branches; at least 18 years old; any university",
+    "timeline": "January to March (Organization selection); applications open in March",
+    "stipend/ctc": "1,500 to 3,000 USD (around 1.35 to 3 lakh)",
+    "url": "Official GSOC website",
+    "key_notes_how_to_prepare": {
+      "tip-1": "GSOC tag in resume is highly valued by recruiters",
+      "tip-2": "Must be an open source enthusiast",
+      "tip-3": "Tag helps in future interviews with Google/Microsoft"
+    },
+    "preparation_strategy": {
+      "strategy-1": "Learn basic Git and GitHub operations",
+      "strategy-2": "Start contributing to organizations in Jan/Feb before applications open",
+      "strategy-3": "Submit a strong project proposal in March"
+    }
+  },
+  "Google-4": {
+    "program": "Google Step Internship",
+    "hire": "DSA based judging; involves interviews",
+    "eligibility": "Second year students; mostly for girls",
+    "timeline": "November to December",
+    "stipend/ctc": "77,000 to 1.25 lakh per month",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Requires top-notch DSA knowledge",
+      "tip-2": "Resume should be ATS friendly",
+      "tip-3": "High performers get a PPI in third year"
+    },
+    "preparation_strategy": {
+      "strategy-1": "Focus heavily on DSA basics and problem solving",
+      "strategy-2": "Optimize resume profile",
+      "strategy-3": "Build serious projects"
+    }
+  },
+  "Google-5": {
+    "program": "Student Researcher",
+    "hire": "Not mentioned",
+    "eligibility": "Bachelor, Masters, or PhD in CS, Stats, Econ, Math, or related fields; Technical or Non-technical",
+    "timeline": "Not mentioned; duration 3 to 4 months",
+    "stipend/ctc": "Not mentioned",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Work on actual Google products",
+      "tip-2": "Adds significant value to CV",
+      "tip-3": "Open for various academic backgrounds"
+    },
+    "preparation_strategy": { "strategy-1": "Not mentioned" }
+  },
+  "Google-6": {
+    "program": "Software Engineering Intern",
+    "hire": "Direct application",
+    "eligibility": "Second or third year students; graduating after 2026",
+    "timeline": "August to September",
+    "stipend/ctc": "1.25 lakh per month",
+    "url": "Google Jobs portal",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Reviewing on a rolling basis; apply early",
+      "tip-2": "Requires hands-on programming experience",
+      "tip-3": "Not mentioned"
+    },
+    "preparation_strategy": {
+      "strategy-1": "Monitor Google jobs portal regularly",
+      "strategy-2": "Prepare for DSA questions",
+      "strategy-3": "Not mentioned"
+    }
+  },
+  "Microsoft": {
+    "program": "Microsoft Explore India",
+    "hire": "Not mentioned",
+    "eligibility": "First year and second year undergraduates in Computer Science (BTech, BSc, BCA); Not open for MCA",
+    "timeline": "Opens around November; check between May and July",
+    "stipend/ctc": "80,000 to 1 lakh",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Designed as a pipeline program with strong long-term conversion",
+      "tip-2": "8-week paid program",
+      "tip-3": "Check May-July for prep updates"
+    },
+    "preparation_strategy": {
+      "strategy-1": "Prepare computer science fundamentals",
+      "strategy-2": "Not mentioned",
+      "strategy-3": "Not mentioned"
+    }
+  },
+  "Microsoft-2": {
+    "program": "Microsoft Engage",
+    "hire": "Mentorship program; involves sessions and hackathon",
+    "eligibility": "Second year and third year students",
+    "timeline": "May to June",
+    "stipend/ctc": "1 lakh+ stipend; chance for PPI",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Pipeline for full-time job at Microsoft",
+      "tip-2": "Mentorship from actual Microsoft engineers",
+      "tip-3": "Prepares you for interviews"
+    },
+    "preparation_strategy": {
+      "strategy-1": "Follow Microsoft career page in summer",
+      "strategy-2": "Not mentioned",
+      "strategy-3": "Not mentioned"
+    }
+  },
+  "Microsoft-3": {
+    "program": "Software Engineering Intern",
+    "hire": "Offline internship in Karnataka, Bangalore",
+    "eligibility": "Bachelor or Master degree in CS or related IT field; must have at least one semester remaining after internship",
+    "timeline": "Applications currently open (Jan 2026)",
+    "stipend/ctc": "North of 1 lakh per month",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Must be able to solve Leetcode problems",
+      "tip-2": "Strong knowledge of algorithms and DSA required",
+      "tip-3": "Requires good projects on resume"
+    },
+    "preparation_strategy": {
+      "strategy-1": "Build strong DSA foundation",
+      "strategy-2": "Solve medium to hard Leetcode problems",
+      "strategy-3": "Build real-world projects"
+    }
+  },
+  "Microsoft-4": {
+    "program": "Microsoft Research Internship",
+    "hire": "Direct application",
+    "eligibility": "Third and final year students; best suited for designs, ML, or applied research",
+    "timeline": "Ongoing as of January 2026",
+    "stipend/ctc": "Not mentioned",
+    "url": "Microsoft careers page",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Focus on contributing to research papers",
+      "tip-2": "Strong academic background in research fields preferred",
+      "tip-3": "Chance for full-time job conversion"
+    },
+    "preparation_strategy": {
+      "strategy-1": "Check Microsoft careers page regularly",
+      "strategy-2": "Not mentioned",
+      "strategy-3": "Not mentioned"
+    }
+  },
+  "Amazon": {
+    "program": "Amazon Internship 2026 General Role",
+    "hire": "Direct application on Amazon.jobs, campus placement, or hackathons",
+    "eligibility": "BTech, MBA, BCA, ASIT; pre-final and final year students graduating after 2026",
+    "timeline": "March to May; application period Sept-Dec; duration 6 to 12 weeks",
+    "stipend/ctc": "80,000 to 1.25 lakh per month",
+    "url": "Amazon.jobs",
+    "key_notes_how_to_prepare": {
+      "tip-1": "High workload expected",
+      "tip-2": "Covers relocation and housing expenses",
+      "tip-3": "High-performing interns often get PPO"
+    },
+    "preparation_strategy": {
+      "strategy-1": "Apply early as applications are on a rolling basis",
+      "strategy-2": "Prepare DSA for interview rounds",
+      "strategy-3": "Not mentioned"
+    }
+  },
+  "Amazon-2": {
+    "program": "Amazon Women Program (Amazon Wow)",
+    "hire": "Mentorship and hiring challenge",
+    "eligibility": "First to third year female students only",
+    "timeline": "November to December",
+    "stipend/ctc": "40,000 to 1.25 lakh per month",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Higher selection chances for girls",
+      "tip-2": "Mentorship program leads to direct interview calls",
+      "tip-3": "Typically happens once a year"
+    },
+    "preparation_strategy": {
+      "strategy-1": "Monitor Amazon Wow portal in Q4",
+      "strategy-2": "Not mentioned",
+      "strategy-3": "Not mentioned"
+    }
+  },
+  "Amazon-3": {
+    "program": "Amazon ML Summer School",
+    "hire": "Application and MCQ test",
+    "eligibility": "BTech/MTech; basic Python and ML knowledge; 3rd or final year preferred",
+    "timeline": "June to July; August to September",
+    "stipend/ctc": "Unpaid; valuable resume boost",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Not a direct internship but pushes resume heavily",
+      "tip-2": "Often leads to direct Amazon interview calls",
+      "tip-3": "Learning program by Amazon experts"
+    },
+    "preparation_strategy": {
+      "strategy-1": "Acquire basic knowledge of Python and Machine Learning",
+      "strategy-2": "Participate in the training challenge",
+      "strategy-3": "Not mentioned"
+    }
+  },
+  "Amazon-4": {
+    "program": "Amazon Power Program",
+    "hire": "Part of diversity hiring",
+    "eligibility": "Female candidates only; any year of college",
+    "timeline": "December",
+    "stipend/ctc": "1 lakh per month",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Specifically for females in tech",
+      "tip-2": "Part of the broader Amazon hiring strategy",
+      "tip-3": "Not mentioned"
+    },
+    "preparation_strategy": { "strategy-1": "Not mentioned" }
+  },
+  "PayPal": {
+    "program": "Internship",
+    "hire": "Not mentioned",
+    "eligibility": "Bachelor degree; students passing out in 2027",
+    "timeline": "September",
+    "stipend/ctc": "1 to 1.5 lakh",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Higher selection rates compared to Cisco reported",
+      "tip-2": "Timeline based on previous September window",
+      "tip-3": "Not mentioned"
+    },
+    "preparation_strategy": { "strategy-1": "Not mentioned" }
+  },
+  "Cisco": {
+    "program": "Summer Internship",
+    "hire": "Not mentioned",
+    "eligibility": "Not mentioned",
+    "timeline": "Summer 2025/2026",
+    "stipend/ctc": "30,000 to 35,000",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Good company for work-life balance",
+      "tip-2": "Reported rare chances of selection compared to other giants",
+      "tip-3": "Not mentioned"
+    },
+    "preparation_strategy": { "strategy-1": "Not mentioned" }
+  },
+  "Cisco-2": {
+    "program": "Virtual Internship (AICTE)",
+    "hire": "Application through AICTE portal",
+    "eligibility": "Not mentioned",
+    "timeline": "Spring/May",
+    "stipend/ctc": "Unpaid (Experience letter provided)",
+    "url": "AICTE portal",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Good for adding experience letter to resume",
+      "tip-2": "Does not offer stipend",
+      "tip-3": "Not mentioned"
+    },
+    "preparation_strategy": { "strategy-1": "Not mentioned" }
+  },
+  "Cisco-3": {
+    "program": "Cisco Ideathon",
+    "hire": "Idea-based internship challenge",
+    "eligibility": "Second and third year students",
+    "timeline": "March to June",
+    "stipend/ctc": "70,000 per month",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Idea presentation is key",
+      "tip-2": "Excellent work-life balance",
+      "tip-3": "Potential for PPO"
+    },
+    "preparation_strategy": {
+      "strategy-1": "Work on innovative tech ideas",
+      "strategy-2": "Not mentioned",
+      "strategy-3": "Not mentioned"
+    }
+  },
+  "Cisco-4": {
+    "program": "Cisco Codathon",
+    "hire": "Intern hiring challenge",
+    "eligibility": "Third year students and freshers",
+    "timeline": "June 1st",
+    "stipend/ctc": "90,000 stipend; 30 LPA full-time",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Competitive coding focused",
+      "tip-2": "Not mentioned",
+      "tip-3": "Not mentioned"
+    },
+    "preparation_strategy": {
+      "strategy-1": "Prepare for competitive coding challenge",
+      "strategy-2": "Not mentioned",
+      "strategy-3": "Not mentioned"
+    }
+  },
+  "Goldman Sachs": {
+    "program": "Engineering Campus Hiring",
+    "hire": "Competitive coding contest on Hacker Rank or Code Chef",
+    "eligibility": "Bachelor or Master; all engineering branches and MCA/BCA/BSc/MSc; Final and Pre-final year",
+    "timeline": "January and August",
+    "stipend/ctc": "1 lakh per month; PPO 25-30 LPA",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Extremely competitive global program",
+      "tip-2": "Need to solve 4 Leetcode problems fast during contests",
+      "tip-3": "Rarely restricted by engineering branch"
+    },
+    "preparation_strategy": {
+      "strategy-1": "Master fast problem solving on Leetcode",
+      "strategy-2": "Participate in bi-weekly and weekly Leetcode contests",
+      "strategy-3": "Apply on day one"
+    }
+  },
+  "Goldman Sachs-2": {
+    "program": "Summer Analyst Program",
+    "hire": "Not mentioned",
+    "eligibility": "Third year students; pre-final year",
+    "timeline": "March to July; August to September; openings July 1",
+    "stipend/ctc": "1 lakh per month",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Prestigious brand for CV",
+      "tip-2": "High BRAND value",
+      "tip-3": "Not mentioned"
+    },
+    "preparation_strategy": { "strategy-1": "Not mentioned" }
+  },
+  "TCS": {
+    "program": "Research Internship",
+    "hire": "Not mentioned",
+    "eligibility": "Not mentioned",
+    "timeline": "September",
+    "stipend/ctc": "20,000 to 30,000",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Good for those interested in research",
+      "tip-2": "Not mentioned",
+      "tip-3": "Not mentioned"
+    },
+    "preparation_strategy": { "strategy-1": "Not mentioned" }
+  },
+  "TCS-2": {
+    "program": "Free NQT (National Qualifier Test)",
+    "hire": "National Qualifier Test; mass hiring",
+    "eligibility": "Third year, final year, and experienced candidates",
+    "timeline": "March and July; June to December",
+    "stipend/ctc": "3.3 to 11 lakh packages",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Ensure applying for Free NQT, not paid",
+      "tip-2": "Massive scale hiring",
+      "tip-3": "Covers technical and HR rounds"
+    },
+    "preparation_strategy": {
+      "strategy-1": "Prepare for Aptitude and Coding rounds",
+      "strategy-2": "Prepare for HR and Technical interviews",
+      "strategy-3": "Not mentioned"
+    }
+  },
+  "Infosys": {
+    "program": "InStep Internship",
+    "hire": "Not mentioned",
+    "eligibility": "Second and third year students",
+    "timeline": "December to February; ongoing",
+    "stipend/ctc": "Not mentioned",
+    "url": "Link in description",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Mentorship program leading to jobs",
+      "tip-2": "Currently open as of early 2026",
+      "tip-3": "Not mentioned"
+    },
+    "preparation_strategy": {
+      "strategy-1": "Apply immediately via link provided",
+      "strategy-2": "Not mentioned",
+      "strategy-3": "Not mentioned"
+    }
+  },
+  "Infosys-2": {
+    "program": "HackWithInfy",
+    "hire": "Coding competition/hackathon",
+    "eligibility": "Second, third, and final year students",
+    "timeline": "February to June",
+    "stipend/ctc": "2 lakh prize; PPI/PPO opportunity",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Individual participation followed by team rounds",
+      "tip-2": "Significant cash prizes for winners",
+      "tip-3": "Not mentioned"
+    },
+    "preparation_strategy": {
+      "strategy-1": "Practice competitive coding",
+      "strategy-2": "Not mentioned",
+      "strategy-3": "Not mentioned"
+    }
+  },
+  "IBM": {
+    "program": "Internship",
+    "hire": "Not mentioned",
+    "eligibility": "Not mentioned",
+    "timeline": "December",
+    "stipend/ctc": "Unpaid",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Purely for experience letter",
+      "tip-2": "Not mentioned",
+      "tip-3": "Not mentioned"
+    },
+    "preparation_strategy": { "strategy-1": "Not mentioned" }
+  },
+  "Deloitte": {
+    "program": "Internship",
+    "hire": "Not mentioned",
+    "eligibility": "Not mentioned",
+    "timeline": "May and September",
+    "stipend/ctc": "20,000 to 30,000; 8 week duration",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Big four exposure",
+      "tip-2": "Not mentioned",
+      "tip-3": "Not mentioned"
+    },
+    "preparation_strategy": { "strategy-1": "Not mentioned" }
+  },
+  "Indian Institute of Remote Sensing (IRS)": {
+    "program": "Internship",
+    "hire": "Not mentioned",
+    "eligibility": "Not mentioned",
+    "timeline": "Not mentioned",
+    "stipend/ctc": "Unpaid",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Opportunity to work in an Indian Body (ISRO related)",
+      "tip-2": "Recommended to ignore if looking for paid roles",
+      "tip-3": "Not mentioned"
+    },
+    "preparation_strategy": { "strategy-1": "Not mentioned" }
+  },
+  "UIDAI": {
+    "program": "Internship",
+    "hire": "Track through Government portal",
+    "eligibility": "Not mentioned",
+    "timeline": "6 week duration",
+    "stipend/ctc": "10,000 basic",
+    "url": "Government portal link in description",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Work for Aadhaar card body",
+      "tip-2": "Government timelines are often unpredictable",
+      "tip-3": "Not mentioned"
+    },
+    "preparation_strategy": {
+      "strategy-1": "Track government internship portals regularly",
+      "strategy-2": "Not mentioned",
+      "strategy-3": "Not mentioned"
+    }
+  },
+  "PM Internship": {
+    "program": "Internship",
+    "hire": "Not mentioned",
+    "eligibility": "Not mentioned",
+    "timeline": "June/July",
+    "stipend/ctc": "10,000",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Opportunity to work for Indian Government",
+      "tip-2": "Not mentioned",
+      "tip-3": "Not mentioned"
+    },
+    "preparation_strategy": { "strategy-1": "Not mentioned" }
+  },
+  "American Express": {
+    "program": "Cohort Street / Code Street",
+    "hire": "Hackathon based",
+    "eligibility": "Technical degrees (BE/BTech, CSE, IT, ECE); female students in 1st to 4th year",
+    "timeline": "January to March",
+    "stipend/ctc": "35,000 to 75,000 per month; PPO potential",
+    "url": "AX website / Social handles",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Global financial company brand",
+      "tip-2": "PPO full-time offer around 17-20 LPA",
+      "tip-3": "Check AX website regularly in Q1"
+    },
+    "preparation_strategy": {
+      "strategy-1": "Form a team and participate in the hackathon",
+      "strategy-2": "Check website between Jan and March",
+      "strategy-3": "Not mentioned"
+    }
+  },
+  "American Express-2": {
+    "program": "Geek Goddess",
+    "hire": "Coding competition for women",
+    "eligibility": "Third year female students",
+    "timeline": "November to December",
+    "stipend/ctc": "1 lakh per month",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Only for third year girls",
+      "tip-2": "Brand benefits early on",
+      "tip-3": "Not mentioned"
+    },
+    "preparation_strategy": {
+      "strategy-1": "Prepare for technical coding challenges",
+      "strategy-2": "Not mentioned",
+      "strategy-3": "Not mentioned"
+    }
+  },
+  "American Express-3": {
+    "program": "Makethon",
+    "hire": "Hackathon competition",
+    "eligibility": "Third and final year female students",
+    "timeline": "May to July",
+    "stipend/ctc": "70,000 stipend; 17-20 LPA full-time",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Hires both interns and full-time via hackathon",
+      "tip-2": "Not mentioned",
+      "tip-3": "Not mentioned"
+    },
+    "preparation_strategy": { "strategy-1": "Not mentioned" }
+  },
+  "Uber": {
+    "program": "Uber HackTag",
+    "hire": "Hackathon based competition; top 3 teams rewarded",
+    "eligibility": "Engineering students; third year or final year",
+    "timeline": "January to March",
+    "stipend/ctc": "1.2 lakh to 1.5 lakh per month; 5 lakh prize pool",
+    "url": "unstop or hacker earth",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Asks high-level DSA questions",
+      "tip-2": "Top teams get interview opportunities",
+      "tip-3": "One of the highest ROI programs"
+    },
+    "preparation_strategy": {
+      "strategy-1": "Master DSA at an advanced level",
+      "strategy-2": "Build strong problem solving skills",
+      "strategy-3": "Form a team of 3-4 friends"
+    }
+  },
+  "Uber-2": {
+    "program": "Uber She++ / C++",
+    "hire": "Diversity hiring program",
+    "eligibility": "Female candidates only; second year students",
+    "timeline": "November to February",
+    "stipend/ctc": "1.5 lakh per month",
+    "url": "Telegram link",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Specifically for second year female students",
+      "tip-2": "Very high stipend amount",
+      "tip-3": "Not mentioned"
+    },
+    "preparation_strategy": { "strategy-1": "Not mentioned" }
+  },
+  "Uber-3": {
+    "program": "Uber Star",
+    "hire": "Not mentioned",
+    "eligibility": "Second year students; diversity group focus",
+    "timeline": "November to December",
+    "stipend/ctc": "1.5 lakh per month",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Requires strong coding basics",
+      "tip-2": "Potential for PPI/PPO",
+      "tip-3": "Not mentioned"
+    },
+    "preparation_strategy": { "strategy-1": "Not mentioned" }
+  },
+  "Flipkart": {
+    "program": "Flipkart Runway",
+    "hire": "Internship hiring challenge; MCQ, coding, and interview rounds",
+    "eligibility": "Second or third year female engineering students (graduating 2027)",
+    "timeline": "February to April; 8-10 week duration",
+    "stipend/ctc": "1 lakh per month; 28 LPA PPO offer",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Mentorship for women in tech",
+      "tip-2": "Top 500 get access to interview skills workshops",
+      "tip-3": "Flipkart investing in you early for full-time roles"
+    },
+    "preparation_strategy": {
+      "strategy-1": "Prepare for MCQ and coding challenge",
+      "strategy-2": "Not mentioned",
+      "strategy-3": "Not mentioned"
+    }
+  },
+  "Flipkart-2": {
+    "program": "Flipkart Grid",
+    "hire": "4 round process: Quiz, coding assessment, case study based coding, National Finals",
+    "eligibility": "All engineering students batches 2026 to 2029",
+    "timeline": "June to August",
+    "stipend/ctc": "1 lakh per month; PPO >30 LPA",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "India's largest engineering campus challenge",
+      "tip-2": "Can participate solo (new change)",
+      "tip-3": "Skill-based screening"
+    },
+    "preparation_strategy": {
+      "strategy-1": "Prepare for quiz and coding assessment rounds",
+      "strategy-2": "Participate in case study based coding",
+      "strategy-3": "Not mentioned"
+    }
+  },
+  "Flipkart-3": {
+    "program": "Girls Want to Code (GWC) 7.0",
+    "hire": "Coding challenge followed by mentorship and PPI",
+    "eligibility": "Women 3rd/4th year BTech or 1st/2nd year MTech",
+    "timeline": "Deadline January 15th",
+    "stipend/ctc": "1 lakh per month; 32 lakhs per year PPO",
+    "url": "unstop.com",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Top 30 performers visit Bangalore headquarters",
+      "tip-2": "Mentorship program provided",
+      "tip-3": "PPI opportunity included"
+    },
+    "preparation_strategy": {
+      "strategy-1": "Apply through Unstop before January 15",
+      "strategy-2": "Not mentioned",
+      "strategy-3": "Not mentioned"
+    }
+  },
+  "Swiggy": {
+    "program": "Swiggy Launchpad",
+    "hire": "Not mentioned",
+    "eligibility": "Engineering students with good development skills; any year (1st to 4th)",
+    "timeline": "May to July",
+    "stipend/ctc": "20,000 to 45,000",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Startup style internship program",
+      "tip-2": "Requires good development skills",
+      "tip-3": "Not mentioned"
+    },
+    "preparation_strategy": {
+      "strategy-1": "Build strong development projects",
+      "strategy-2": "Not mentioned",
+      "strategy-3": "Not mentioned"
+    }
+  },
+  "Adobe": {
+    "program": "Adobe India Internship / Hackathon",
+    "hire": "Direct hiring based on DSA/Dev or Hackathon challenge",
+    "eligibility": "Engineering students graduating 2026/2027; pre-final and final year",
+    "timeline": "August to October",
+    "stipend/ctc": "60,000 to 1 lakh per month; PPO >40 LPA",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Adobe brand adds massive credibility",
+      "tip-2": "Requires top-notch DSA and development skills",
+      "tip-3": "High PPO packages over 40 LPA"
+    },
+    "preparation_strategy": {
+      "strategy-1": "Master DSA and full-stack development",
+      "strategy-2": "Monitor career portal for direct openings",
+      "strategy-3": "Not mentioned"
+    }
+  },
+  "Meta": {
+    "program": "Meta Hacker Cup",
+    "hire": "World-class coding competition",
+    "eligibility": "Open for all engineering students; any year",
+    "timeline": "July to September",
+    "stipend/ctc": "1.5 lakh to 2.5 lakh per month; 20,000 USD win prize",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Extremely competitive global level coding",
+      "tip-2": "Tag of Meta is highly valuable for CV",
+      "tip-3": "Requires strong CP background"
+    },
+    "preparation_strategy": {
+      "strategy-1": "Practice high-level competitive programming",
+      "strategy-2": "Participate in rounds between July and Sept",
+      "strategy-3": "Not mentioned"
+    }
+  },
+  "EY": {
+    "program": "EY Techathon",
+    "hire": "Annual tech competition based on case studies",
+    "eligibility": "Second, third, or final year engineering students",
+    "timeline": "September to December",
+    "stipend/ctc": "40,000 stipend; 3 lakh win prize; PPO 10-13 LPA",
+    "url": "Unstop platform",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Focuses heavily on AI and Generative AI currently",
+      "tip-2": "Articulation of case studies is critical",
+      "tip-3": "Big Four company exposure"
+    },
+    "preparation_strategy": {
+      "strategy-1": "Work on case study presentation skills",
+      "strategy-2": "Build projects using AI tools",
+      "strategy-3": "Apply on Unstop"
+    }
+  },
+  "MLH Fellowship": {
+    "program": "Global Open Source Internship",
+    "hire": "Remote open-source style; multiple seasons",
+    "eligibility": "Basic knowledge of Git and GitHub; no CGPA requirement",
+    "timeline": "Season wise (Winter, Spring, Summer, Fall)",
+    "stipend/ctc": "Up to 2,000 USD stipend",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Completely remote opportunity",
+      "tip-2": "Valuable open-source exposure",
+      "tip-3": "Spring batch open as of early 2026"
+    },
+    "preparation_strategy": {
+      "strategy-1": "Learn basic Git and GitHub operations",
+      "strategy-2": "Not mentioned",
+      "strategy-3": "Not mentioned"
+    }
+  },
+  "SAP Labs": {
+    "program": "SAP Labs Mentorship",
+    "hire": "Mentorship program",
+    "eligibility": "Not mentioned",
+    "timeline": "Not mentioned",
+    "stipend/ctc": "Not mentioned",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Very important program for career guidance",
+      "tip-2": "Not mentioned",
+      "tip-3": "Not mentioned"
+    },
+    "preparation_strategy": { "strategy-1": "Not mentioned" }
+  },
+  "LFX": {
+    "program": "LFX Mentorship",
+    "hire": "Mentorship program",
+    "eligibility": "Not mentioned",
+    "timeline": "Not mentioned",
+    "stipend/ctc": "Not mentioned",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Very important mentorship opportunity",
+      "tip-2": "Not mentioned",
+      "tip-3": "Not mentioned"
+    },
+    "preparation_strategy": { "strategy-1": "Not mentioned" }
+  },
+  "J.P. Morgan": {
+    "program": "Code for Good",
+    "hire": "24-hour coding-based hackathon",
+    "eligibility": "Second or third year tech students; 7 CGPA or 70% minimum requirement",
+    "timeline": "February to March; September to October",
+    "stipend/ctc": "80,000 to 90,000 per month; International PPO potential",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Winning teams can get international PPO (London/Glasgow)",
+      "tip-2": "Strong teamwork and programming skills required",
+      "tip-3": "Intense 24-hour hackathon format"
+    },
+    "preparation_strategy": {
+      "strategy-1": "Maintain minimum 7 CGPA",
+      "strategy-2": "Form a solid coding team",
+      "strategy-3": "Not mentioned"
+    }
+  },
+  "Myntra": {
+    "program": "Hacker Ramp",
+    "hire": "Hackathon based; ideation and grand finale",
+    "eligibility": "Second, third, and final year students",
+    "timeline": "March to April; August to October",
+    "stipend/ctc": "60,000 to 90,000; 3-4.6 lakh win prize",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Skill-based screening (less DSA)",
+      "tip-2": "Creative fashion company style",
+      "tip-3": "PPO package around 30 LPA"
+    },
+    "preparation_strategy": {
+      "strategy-1": "Build a good project and present it well",
+      "strategy-2": "Not mentioned",
+      "strategy-3": "Not mentioned"
+    }
+  },
+  "Trilogy": {
+    "program": "Codegön",
+    "hire": "Competitive programming contest; difficult interview rounds",
+    "eligibility": "Bachelor degree students; 2nd/3rd year",
+    "timeline": "January to August",
+    "stipend/ctc": "1.5 lakh per month; tax-free",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Includes training in Dubai",
+      "tip-2": "High PPO conversion rate",
+      "tip-3": "Interviews are extremely difficult CP based"
+    },
+    "preparation_strategy": {
+      "strategy-1": "Focus on high-level competitive programming",
+      "strategy-2": "Not mentioned",
+      "strategy-3": "Not mentioned"
+    }
+  },
+  "Intuit": {
+    "program": "SDE Internship",
+    "hire": "Direct application; direct reachouts",
+    "eligibility": "Third year students; talent community",
+    "timeline": "November to December",
+    "stipend/ctc": "1 lakh to 1.5 lakh per month; PPO 39 LPA",
+    "url": "Company job portal",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Culture is reported as very good",
+      "tip-2": "Fill talent community form for reachouts",
+      "tip-3": "Not mentioned"
+    },
+    "preparation_strategy": {
+      "strategy-1": "Search 'Internship' on career portal",
+      "strategy-2": "Active presence on LinkedIn",
+      "strategy-3": "Not mentioned"
+    }
+  },
+  "RBI": {
+    "program": "Research Internship",
+    "hire": "Application based",
+    "eligibility": "Any year student (Tech or Non-Tech); 3rd/4th preferred",
+    "timeline": "December to January; June to December",
+    "stipend/ctc": "45,000 to 50,000 per month",
+    "url": "Telegram channel / official website",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Work for Indian Government directly",
+      "tip-2": "Open to both technical and non-technical backgrounds",
+      "tip-3": "Not mentioned"
+    },
+    "preparation_strategy": {
+      "strategy-1": "Track RBI website during window openings",
+      "strategy-2": "Not mentioned",
+      "strategy-3": "Not mentioned"
+    }
+  },
+  "Agoda": {
+    "program": "Technology Intern Hiring",
+    "hire": "Not mentioned",
+    "eligibility": "Third and final year students; 6 month duration",
+    "timeline": "March and April",
+    "stipend/ctc": "1 lakh per month",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Global tech company exposure",
+      "tip-2": "Requires 6 month commitment",
+      "tip-3": "Not mentioned"
+    },
+    "preparation_strategy": { "strategy-1": "Not mentioned" }
+  },
+  "Atlassian": {
+    "program": "Women in Tech",
+    "hire": "Not mentioned",
+    "eligibility": "Second and third year female students",
+    "timeline": "August to September",
+    "stipend/ctc": "1 lakh per month; 70 LPA PPO",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Incredibly competitive program",
+      "tip-2": "Highest full-time CTC offered to freshers",
+      "tip-3": "Not mentioned"
+    },
+    "preparation_strategy": {
+      "strategy-1": "Develop top-tier coding skills",
+      "strategy-2": "Not mentioned",
+      "strategy-3": "Not mentioned"
+    }
+  },
+  "ServiceNow": {
+    "program": "Women Code to Win",
+    "hire": "Coding challenge",
+    "eligibility": "Female students; any year (1st to 4th)",
+    "timeline": "January to March",
+    "stipend/ctc": "1 lakh+ stipend; 25-30 LPA CTC",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Equal opportunity for all college years",
+      "tip-2": "Diversity focused hiring",
+      "tip-3": "Not mentioned"
+    },
+    "preparation_strategy": {
+      "strategy-1": "Practice coding challenges",
+      "strategy-2": "Not mentioned",
+      "strategy-3": "Not mentioned"
+    }
+  },
+  "Merkari": {
+    "program": "Build Program",
+    "hire": "Selection based on product thinking and coding",
+    "eligibility": "Any year BTech graduates including freshers",
+    "timeline": "Ongoing throughout the year",
+    "stipend/ctc": "2.5 lakh per month",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "One of the highest paying internships",
+      "tip-2": "Very low intake and low conversion rate",
+      "tip-3": "Requires product thinking"
+    },
+    "preparation_strategy": {
+      "strategy-1": "Become high-level competitive programmer",
+      "strategy-2": "Focus on product thinking",
+      "strategy-3": "Not mentioned"
+    }
+  },
+  "AICTE": {
+    "program": "Mega Internship Launch 2026",
+    "hire": "Government backed portal launch",
+    "eligibility": "Over 1 lakh opportunities; Tech domains (AI, Cyber etc.)",
+    "timeline": "Mid-January 2026 launch",
+    "stipend/ctc": "Varies by partner (ISRO, DRDO)",
+    "url": "AICTE internship portal",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Partners like ISRO and DRDO",
+      "tip-2": "Massive scale program",
+      "tip-3": "Not mentioned"
+    },
+    "preparation_strategy": {
+      "strategy-1": "Register on the AICTE internship portal in January",
+      "strategy-2": "Not mentioned",
+      "strategy-3": "Not mentioned"
+    }
+  },
+  "IIT Research": {
+    "program": "Summer Research Internship",
+    "hire": "Application through official pages",
+    "eligibility": "2nd/3rd year (UG); 2nd year (PG)",
+    "timeline": "February to March; November to December",
+    "stipend/ctc": "Varies (can reach 4 lakh+)",
+    "url": "Official IIT pages",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Focus on AI, ML, and Deep Learning",
+      "tip-2": "Excellent for academic/industrial exposure",
+      "tip-3": "Some provide accommodation"
+    },
+    "preparation_strategy": {
+      "strategy-1": "Search official NIT/IIT pages for listings",
+      "strategy-2": "Not mentioned",
+      "strategy-3": "Not mentioned"
+    }
+  },
+  "ISA Austria": {
+    "program": "Fellowship",
+    "hire": "Not mentioned",
+    "eligibility": "Any student and fresher graduates",
+    "timeline": "Late 2026 for 2027 start; Nov-Dec window",
+    "stipend/ctc": "1,150 Euro per month",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "International opportunity in Austria",
+      "tip-2": "Detailed doc requirements apply",
+      "tip-3": "Not mentioned"
+    },
+    "preparation_strategy": { "strategy-1": "Not mentioned" }
+  },
+  "ETL Zurich": {
+    "program": "Summer Research Fellowship",
+    "hire": "Not mentioned",
+    "eligibility": "Not mentioned",
+    "timeline": "Deadline Dec 15; opens Nov",
+    "stipend/ctc": "4 lakh stipend",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "International research opportunity",
+      "tip-2": "Not mentioned",
+      "tip-3": "Not mentioned"
+    },
+    "preparation_strategy": { "strategy-1": "Not mentioned" }
+  },
+  "NSTC Taiwan": {
+    "program": "International Pilot Program",
+    "hire": "Active as of January",
+    "eligibility": "International students",
+    "timeline": "June to December",
+    "stipend/ctc": "Per day stipend in Taiwanese dollars",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "International research exposure",
+      "tip-2": "Not mentioned",
+      "tip-3": "Not mentioned"
+    },
+    "preparation_strategy": { "strategy-1": "Not mentioned" }
+  },
+  "EPFL": {
+    "program": "Summer Research Internship",
+    "hire": "Not mentioned",
+    "eligibility": "Bachelors and Master students",
+    "timeline": "May to September",
+    "stipend/ctc": "1,800 Swiss Franks per month",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Opportunity in Switzerland",
+      "tip-2": "Not mentioned",
+      "tip-3": "Not mentioned"
+    },
+    "preparation_strategy": { "strategy-1": "Not mentioned" }
+  },
+  "Matey Japan": {
+    "program": "Internship Program",
+    "hire": "Japanese government association",
+    "eligibility": "Community selected students",
+    "timeline": "May to June",
+    "stipend/ctc": "Everything covered; good stipend",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "International travel involved",
+      "tip-2": "Highly reliable government program",
+      "tip-3": "Not mentioned"
+    },
+    "preparation_strategy": { "strategy-1": "Not mentioned" }
+  },
+  "Gov AI": {
+    "program": "Internship",
+    "hire": "Test, work assessment, resume interview",
+    "eligibility": "College students and freshers",
+    "timeline": "January; June-July",
+    "stipend/ctc": "11-12 lakh for 3 months",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Based in London",
+      "tip-2": "Uses final round AI mock interview tools",
+      "tip-3": "Not mentioned"
+    },
+    "preparation_strategy": {
+      "strategy-1": "Prepare with AI mock interview tools",
+      "strategy-2": "Not mentioned",
+      "strategy-3": "Not mentioned"
+    }
+  },
+  "Felicity Engineering Fellowship": {
+    "program": "Internship",
+    "hire": "Not mentioned",
+    "eligibility": "Third and final year students",
+    "timeline": "August to October; 6 months duration",
+    "stipend/ctc": "50,000 per month",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Mostly remote; visit Delhi for 1 week",
+      "tip-2": "Startup style work",
+      "tip-3": "Not mentioned"
+    },
+    "preparation_strategy": { "strategy-1": "Not mentioned" }
+  },
+  "Accenture": {
+    "program": "Summer Internship",
+    "hire": "Direct application",
+    "eligibility": "Pre-final year students",
+    "timeline": "May to August (10-12 weeks)",
+    "stipend/ctc": "25,000 to 45,000 per month; PPO 15-20 LPA",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "65% conversion to full-time",
+      "tip-2": "Follow career page regularly",
+      "tip-3": "Not mentioned"
+    },
+    "preparation_strategy": {
+      "strategy-1": "Check career page every two weeks",
+      "strategy-2": "Not mentioned",
+      "strategy-3": "Not mentioned"
+    }
+  },
+  "Zest": {
+    "program": "Campus Beats",
+    "hire": "Annual program for associate/data science roles",
+    "eligibility": "Second and third year students",
+    "timeline": "March",
+    "stipend/ctc": "10-13 lakh offer",
+    "url": "Not mentioned",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Focus on data science roles",
+      "tip-2": "Not mentioned",
+      "tip-3": "Not mentioned"
+    },
+    "preparation_strategy": { "strategy-1": "Not mentioned" }
+  },
+  "SBI Youth For India": {
+    "program": "Fellowship",
+    "hire": "Pilot program",
+    "eligibility": "Not mentioned",
+    "timeline": "Not fixed; check website",
+    "stipend/ctc": "Around 20,000 monthly",
+    "url": "youthforindia.org",
+    "key_notes_how_to_prepare": {
+      "tip-1": "Work in rural areas with tech",
+      "tip-2": "Learn how tech helps people",
+      "tip-3": "Not mentioned"
+    },
+    "preparation_strategy": {
+      "strategy-1": "Check sbi website regularly",
+      "strategy-2": "Not mentioned",
+      "strategy-3": "Not mentioned"
+    }
+  }
+}
