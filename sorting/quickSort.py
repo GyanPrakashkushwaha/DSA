@@ -4,7 +4,6 @@ def swap(arr, i, j):
 def partition(arr, st, end):
     pivot = arr[end]
     idx = st - 1
-    
     for i in range(st, end):
         if arr[i] <= pivot:
             idx += 1
