@@ -9,14 +9,14 @@ class DSU:
         return self.parent[x]
     
     def union(self, a, b):
-        ra = self.find(a)
-        rb = self.find(b)
-        if ra == rb: return
+        pa = self.find(a)
+        pa = self.find(b)
+        if pa == pb: return
 
-        if self.size[ra] < self.size[rb]:
-            ra, rb = rb, ra
-        self.parent[rb] = ra
-        self.size[ra] += self.size[rb]
+        if self.size[pa] < self.size[pb]:
+            pa, pb = pb, pa
+        self.parent[pb] = ra
+        self.size[pa] += self.size[pb]
 
 dsu = DSU(5)
 dsu.union(0, 1)
