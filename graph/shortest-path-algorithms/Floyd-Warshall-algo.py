@@ -9,9 +9,12 @@ def floyd_warshall_matrix(graph):
             for j in range(V):
                 if dist[i][k] + dist[k][j] < dist[i][j]:
                     dist[i][j] = dist[i][k] + dist[k][j]
-    
-    return dist
 
+        if dist[k][k] < 0:
+            print("Algo has negative weight.")
+            return []
+        
+    return dist
 
 # Example
 INF = float('inf')
